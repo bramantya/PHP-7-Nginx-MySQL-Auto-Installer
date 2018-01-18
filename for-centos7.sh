@@ -50,7 +50,7 @@ echo
 echo
 echo -e "$MAG--=[Creating NginX Default Configuration]=--$IJO"
 rm -rf /etc/nginx/conf.d/default.conf
-wget https://arc.bukancoder.co/Nginx-conf/default.txt -O /etc/nginx/conf.d/default.conf
+wget https://raw.githubusercontent.com/bramantya/PHP-7-Nginx-MySQL-Auto-Installer/master/default.txt -O /etc/nginx/conf.d/default.conf
 echo
 echo
 
