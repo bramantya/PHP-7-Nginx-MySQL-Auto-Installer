@@ -13,6 +13,8 @@ CentOS 7
 $ wget https://raw.githubusercontent.com/bramantya/PHP-7-Nginx-MySQL-Auto-Installer/master/for-centos7.sh -O install.sh
 $ bash install.sh
 ```
+## Original Source on Github ##
+Link : https://github.com/teguhmicro
 
 ## MIT License ##
 
